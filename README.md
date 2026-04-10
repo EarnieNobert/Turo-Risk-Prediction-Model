@@ -20,7 +20,7 @@ The system then uses these outputs to generate a decision such as:
 ## Demo Video
 
 Watch the full demo here:  
-https://youtu.be/M88VqsrF2r0
+https://youtu.be/8aYVCA4xhf8
 
 ---
 
